@@ -1,0 +1,7 @@
+.idea/
+*.class
+taget/
+out/
+build/
+dist/
+nbproject/

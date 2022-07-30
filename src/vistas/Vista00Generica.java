@@ -13,7 +13,7 @@ import javax.swing.JFrame;
  * 
  * @author José Francisco Sánchez Portillo
  */
-public class Vista00Generica extends javax.swing.JFrame  {
+public class Vista00Generica extends JFrame  {
     /**
      * Este constructor define las carcterísticas comunes que tienen las interfaces
      * gráficas usadas en la aplicación
